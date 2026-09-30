@@ -1,0 +1,25 @@
+dataset,dataset_label,gene_space_group,gene_space_subset,hvg_top_n,source_subset,metric,unit,n_comparisons,median_fraction,q25_fraction,q75_fraction,median_percent,q25_percent,q75_percent
+OTF,PerturBase-ORF,L1000,all,,L1000_all,KEGG top20 pathway overlap fraction,per perturbation DEG comparison,1370.0,0.05,0.05,0.05,5.0,5.0,5.0
+OTF,PerturBase-ORF,L1000,in DEG,,L1000_in_DEG,KEGG top20 pathway overlap fraction,per perturbation DEG comparison,1370.0,0.3,0.2,0.35,30.0,20.0,35.0
+OTF,PerturBase-ORF,HVG top2000,all,2000.0,HVG_all,KEGG top20 pathway overlap fraction,per perturbation DEG comparison,1370.0,0.25,0.25,0.3,25.0,25.0,30.0
+OTF,PerturBase-ORF,HVG top2000,in DEG,2000.0,HVG_in_DEG,KEGG top20 pathway overlap fraction,per perturbation DEG comparison,1370.0,0.45,0.4,0.5,45.0,40.0,50.0
+OTF,PerturBase-ORF,HVG top3000,all,3000.0,HVG_all,KEGG top20 pathway overlap fraction,per perturbation DEG comparison,1370.0,0.2,0.2,0.25,20.0,20.0,25.0
+OTF,PerturBase-ORF,HVG top3000,in DEG,3000.0,HVG_in_DEG,KEGG top20 pathway overlap fraction,per perturbation DEG comparison,1370.0,0.5,0.4,0.55,50.0,40.0,55.00000000000001
+OTF,PerturBase-ORF,HVG top5000,all,5000.0,HVG_all,KEGG top20 pathway overlap fraction,per perturbation DEG comparison,1370.0,0.2,0.2,0.2,20.0,20.0,20.0
+OTF,PerturBase-ORF,HVG top5000,in DEG,5000.0,HVG_in_DEG,KEGG top20 pathway overlap fraction,per perturbation DEG comparison,1370.0,0.55,0.45,0.6,55.00000000000001,45.0,60.0
+sciplex,PerturBase-Chemical,L1000,all,,L1000_all,KEGG top20 pathway overlap fraction,per perturbation DEG comparison,1956.0,0.25,0.2,0.35,25.0,20.0,35.0
+sciplex,PerturBase-Chemical,L1000,in DEG,,L1000_in_DEG,KEGG top20 pathway overlap fraction,per perturbation DEG comparison,1956.0,0.35,0.3,0.45,35.0,30.0,45.0
+sciplex,PerturBase-Chemical,HVG top2000,all,2000.0,HVG_all,KEGG top20 pathway overlap fraction,per perturbation DEG comparison,1956.0,0.0,0.0,0.0,0.0,0.0,0.0
+sciplex,PerturBase-Chemical,HVG top2000,in DEG,2000.0,HVG_in_DEG,KEGG top20 pathway overlap fraction,per perturbation DEG comparison,1956.0,0.25,0.2,0.35,25.0,20.0,35.0
+sciplex,PerturBase-Chemical,HVG top3000,all,3000.0,HVG_all,KEGG top20 pathway overlap fraction,per perturbation DEG comparison,1956.0,0.0,0.0,0.0,0.0,0.0,0.0
+sciplex,PerturBase-Chemical,HVG top3000,in DEG,3000.0,HVG_in_DEG,KEGG top20 pathway overlap fraction,per perturbation DEG comparison,1956.0,0.35,0.25,0.4,35.0,25.0,40.0
+sciplex,PerturBase-Chemical,HVG top5000,all,5000.0,HVG_all,KEGG top20 pathway overlap fraction,per perturbation DEG comparison,1956.0,0.0,0.0,0.0,0.0,0.0,0.0
+sciplex,PerturBase-Chemical,HVG top5000,in DEG,5000.0,HVG_in_DEG,KEGG top20 pathway overlap fraction,per perturbation DEG comparison,1956.0,0.4,0.3,0.45,40.0,30.0,45.0
+tahoe,Tahoe-100M,L1000,all,,L1000_all,KEGG top20 pathway overlap fraction,per perturbation DEG comparison,54036.0,0.25,0.15,0.3,25.0,15.0,30.0
+tahoe,Tahoe-100M,L1000,in DEG,,L1000_in_DEG,KEGG top20 pathway overlap fraction,per perturbation DEG comparison,54036.0,0.45,0.35,0.5,45.0,35.0,50.0
+tahoe,Tahoe-100M,HVG top2000,all,2000.0,HVG_all,KEGG top20 pathway overlap fraction,per perturbation DEG comparison,54036.0,0.1,0.1,0.15,10.0,10.0,15.0
+tahoe,Tahoe-100M,HVG top2000,in DEG,2000.0,HVG_in_DEG,KEGG top20 pathway overlap fraction,per perturbation DEG comparison,54036.0,0.25,0.15,0.35,25.0,15.0,35.0
+tahoe,Tahoe-100M,HVG top3000,all,3000.0,HVG_all,KEGG top20 pathway overlap fraction,per perturbation DEG comparison,54036.0,0.1,0.1,0.15,10.0,10.0,15.0
+tahoe,Tahoe-100M,HVG top3000,in DEG,3000.0,HVG_in_DEG,KEGG top20 pathway overlap fraction,per perturbation DEG comparison,54036.0,0.3,0.2,0.4,30.0,20.0,40.0
+tahoe,Tahoe-100M,HVG top5000,all,5000.0,HVG_all,KEGG top20 pathway overlap fraction,per perturbation DEG comparison,54036.0,0.1,0.1,0.15,10.0,10.0,15.0
+tahoe,Tahoe-100M,HVG top5000,in DEG,5000.0,HVG_in_DEG,KEGG top20 pathway overlap fraction,per perturbation DEG comparison,54036.0,0.45,0.35,0.5,45.0,35.0,50.0
